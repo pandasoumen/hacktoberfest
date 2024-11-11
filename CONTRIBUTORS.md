@@ -2431,4 +2431,4 @@ Noida
 #### Name: [Soumen Panda](https://github.com/pandasoumen)
 - Place: Kolkata,India
 - Bio: Software Engineer and Developer
-- GitHub: [Soumen](https://github.com/pandasoumen)
+- GitHub: [Soumen Panda](https://github.com/pandasoumen)
