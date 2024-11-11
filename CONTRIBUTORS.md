@@ -2423,12 +2423,12 @@ Noida
 - Bio: Reverse Engineer
 - GitHub: [xenocidewiki] (https://github.com/xenocidewiki)
 
-#### Name: [Ítalo Epifânio](https://github.com/itepifanio)
+#### Name: [Ítalo Epifânio] (https://github.com/itepifanio)
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
-- Github: [Ítalo Epifânio](https://github.com/itepifanio)
+- Github: [Ítalo Epifânio] (https://github.com/itepifanio)
 
-#### Name: [Soumen Panda](https://github.com/pandasoumen)
+#### Name: [Soumen Panda] (https://github.com/pandasoumen)
 - Place: Kolkata,India
 - Bio: Software Engineer and Developer
-- GitHub: [Soumen Panda](https://github.com/pandasoumen)
+- GitHub: [Soumen Panda] (https://github.com/pandasoumen)
